@@ -40,3 +40,9 @@ var navs=document.querySelector('.menu');
 icon.addEventListener('click',()=>{
 navs.classList.toggle('disp');
 });
+// ====================menu============
+
+
+function fun(){
+  var icon=document.getElementById('menus').style.color="black";
+}

@@ -165,12 +165,12 @@ transition: 0.5s;
   
   .iamge{
     padding-top: 5%;
-    padding-left: 15%;
+    padding-left: 5%;
   }
 
   .iamge img{
     filter: drop-shadow(10px 7px 7px black);
-    width: 500px;
+    width: 650px;
     z-index: 1;
 
   }
@@ -914,6 +914,7 @@ margin: 2%;
     background: #FFF;
     color: #00bcd4;
   }
+
   
   @media (max-width: 991px) {
     section {
@@ -1023,7 +1024,7 @@ footer span a:hover{
   .disp{
         transform: translateX(2%);
       }
-  
+
   .list{
     display: block;
     width: 220px;
@@ -1080,13 +1081,13 @@ footer span a:hover{
   }
   
   .iamge{
-    padding-top: 5%;
-    padding-left: 15%;
+    padding-top: 1%;
+    padding-left: 6%;
   }
 
   .iamge img{
     filter: drop-shadow(10px 7px 7px black);
-    width: 400px;
+    width: 430px;
     z-index: 1;
 
   }
